@@ -1,20 +1,10 @@
-# GITHU - AstralSec
 
-[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@AstralSecHaxor)
+## AstralSec
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstralSecHaxor&show_icons=true)
-
-!DOCTYPE html>
-<html>
-<head>
-    <title>Exemplo de Ícone Animado do Python</title>
-</head>
-<body>
-    <h1>Ícone Animado do Python</h1>
-    
-    <!-- Substitua 'URL_DA_IMAGEM_GIF' pelo URL direto da imagem GIF do Python -->
-    <img src="https://icons8.com/icon/uLDrtp8o8zTG/python" alt="Python Icon">
-
-</body>
-</html>
+<div>
+<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
