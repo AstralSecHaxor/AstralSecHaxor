@@ -23,4 +23,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-![Snake animation](https://github.com/AstralSecHaxor/AstralSecHaxor/blob/output/github-contribution-grid-snake.svg)
