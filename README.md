@@ -24,6 +24,3 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-
-[!imager](src/AddText_10-01-06.18.42.png)
-
