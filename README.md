@@ -7,7 +7,8 @@
 </div>
 
 ## Estudando
-<img loading="lazy" src="src/icons8-python.gif" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img loading="lazy" src="src/icons8-python.gif" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 <div>
 <a href="https://github.com/AstralSecHaxor">
