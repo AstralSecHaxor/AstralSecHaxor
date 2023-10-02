@@ -1,25 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .rounded-gif {
-    border-radius: 50%;
-    overflow: hidden;
-    width: 200px; /* Largura desejada */
-    height: 200px; /* Altura desejada */
-  }
-</style>
-</head>
-<body>
+![imager](src/AddText_10-01-06.18.42.png)
 
-<div align="center">
-  <div class="rounded-gif">
-    <img src="src/logopython.gif" alt="logopython.gif">
-  </div>
+
+<div>
+<a href="https://youtube.com/@AstralSec_Haxor?si=iVQrelNkyomCPRNR" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://medium.com/@AstralSecHaxor" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
-
-</body>
-</html>
 
 ## Estudando
 <img loading="lazy" src="src/logopython.gif" width="60" height="60"/>
