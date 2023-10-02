@@ -1,5 +1,4 @@
 ![imager](src/AddText_10-01-06.18.42.png)
-![Descrição da imagem](src/logopython.gif){:.rounded-circle}
 
 <div>
 <a href="https://youtube.com/@AstralSec_Haxor?si=iVQrelNkyomCPRNR" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
