@@ -7,7 +7,8 @@
 </div>
 
 ## languagens and Tools
-<img loading="lazy" src="src/python.png" width="50" height="50" style="border-radius: 60%; overflow: hidden;" /> <img loading="lazy" src="src/shellscript.png" width="50" height="50" style="border-radius: 60%; overflow: hidden;" />
+<img loading="lazy" src="src/python.png" width="50" height="50" style="border-radius: 60%; overflow: hidden;" /> 
+<img loading="lazy" src="src/shellscript.png" width="60" height="60"style="border-radius: 60%; overflow: hidden;" />
 
 <div>
 <a href="https://github.com/AstralSecHaxor">
