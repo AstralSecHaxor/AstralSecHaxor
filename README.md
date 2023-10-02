@@ -7,7 +7,7 @@
 </div>
 
 ## Estudando
-<img loading="lazy" src="src/pythonlogo.gif" width="50" height="40"/>
+<img loading="lazy" src="src/pythonlogo.gif" width="50" height="60"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 <div>
