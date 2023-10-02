@@ -7,6 +7,16 @@
 </div>
 
 ## Estudando
+.rounded-gif {
+    border-radius: 200%;
+    overflow: center;
+    width: 200px; /* Largura desejada */
+    height: 200px; /* Altura desejada */
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+  }
 <img loading="lazy" src="src/logopython.gif" width="60" height="60"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
