@@ -1,11 +1,14 @@
-![imager](src/AddText_10-01-06.18.42.png)
+![imager](src/logoAstralSecHaxor.png)
 
+## AstralSecHaxor Platforms
 <div>
 <a href="https://youtube.com/@AstralSec_Haxor?si=iVQrelNkyomCPRNR" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://medium.com/@AstralSecHaxor" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
 
-<img loading="lazy" src="src/pythonlogo.gif" width="70" height="70" style="border-radius: 60%; overflow: hidden;" />
+## languagens and Tools
+<img loading="lazy" src="src/python.png" width="50" height="50" style="border-radius: 60%; overflow: hidden;" />
+<img loading="lazy" src="src/shellscript.png" width="50" height="50" style="border-radius: 60%; overflow: hidden;" />
 
 <div>
 <a href="https://github.com/AstralSecHaxor">
