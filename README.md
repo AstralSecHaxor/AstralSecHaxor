@@ -5,8 +5,7 @@
 <a href="https://medium.com/@AstralSecHaxor" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
 
-
-<img loading="lazy" src="src/icons8-python.gif" width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img loading="lazy" src="src/pythonlogo.gif" width="70" height="70" style="border-radius: 60%; overflow: hidden;" />
 
 <div>
 <a href="https://github.com/AstralSecHaxor">
