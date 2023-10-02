@@ -23,7 +23,7 @@
 
 <div align="center">
   <div class="rounded-gif">
-    <img src="src/logopython.gif" alt="Seu GIF">
+    <img src="src/logopython.gif" alt="logopython.gif">
   </div>
 </div>
 
