@@ -7,7 +7,7 @@
 </div>
 
 
-<img loading="lazy" src="src/logopython.gif" width="60" height="60"/>
+<img loading="lazy" src="src/logopython.gif" width="60" height="60" .rounded-circle/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 <div>
