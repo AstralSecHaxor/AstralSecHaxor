@@ -6,6 +6,30 @@
 <a href="https://medium.com/@AstralSecHaxor" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
 
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .rounded-gif {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 200px; /* Largura desejada */
+    height: 200px; /* Altura desejada */
+  }
+</style>
+</head>
+<body>
+
+<div align="center">
+  <div class="rounded-gif">
+    <img src="src/logopython.gif" alt="Seu GIF">
+  </div>
+</div>
+
+</body>
+</html>
+
 ## Estudando
 <img loading="lazy" src="src/logopython.gif" width="60" height="60"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
