@@ -7,8 +7,7 @@
 </div>
 
 # languagens and Tools 
-<img loading="lazy" src="src/main.png" width="50" height="50"/> 
-<img loading="lazy" src="src/fotor_1696627402706.png" width="50" height="50"/> 
+<img loading="lazy" src="src/main.png" width="50" height="50"/> <img loading="lazy" src="src/fotor_1696627402706.png" width="50" height="50"/> 
 
 
 <div>
