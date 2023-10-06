@@ -6,8 +6,10 @@
 <a href="https://medium.com/@AstralSecHaxor" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
 
-## languagens and Tools
-<img loading="lazy" src="src/python.png" width="50" height="50"/> <img loading="lazy" src="src/shellscript.png" width="70" height="70"/>
+# languagens and Tools 
+<img loading="lazy" src="src/main.png" width="50" height="50"/> 
+<img loading="lazy" src="src/fotor_1696627402706.png" width="50" height="50"/> 
+
 
 <div>
 <a href="https://github.com/AstralSecHaxor">
@@ -21,6 +23,5 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=AstralSecHaxor&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  /  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
